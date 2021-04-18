@@ -27,7 +27,11 @@ cp libwarpctc.so ../../usr/lib
 ```
 链接：https://pan.baidu.com/s/1Ef-USCOP5F5cSfmNQESkNw 
 提取码：1giy 
-```
+``` 
+模型下载
+链接：https://pan.baidu.com/s/1pwvu7y4N5Mde2Gy_VnxJ-w 
+提取码：crnn 
+
 
 合成的数据：
 
